@@ -31,30 +31,29 @@ button{
 }
 menu ul{
 	
-	padding:0;
+	list-style-type:none;
 	margin:0;
-	background-color:#FFFFFF;
-	list-style:none;
+	padding:0;
 	overflow:hidden;
+	background-color:#0000FF;
+	
+	   
 }
 #menu ul li { 
-display:inline;
 float:left;
    }
 #menu ul li a{
 	
-	padding:16px 15px;
-	display: inline-block;
-	background-color:#EDEDED;
-	color:#333;
-	bolder-bottom: 150px solid #EDEDED;
-	display;block;
+	padding:10px 200px 10px;
+	display: block-inline-table;
+	background-color:#DCDCDC;
+	
 	text-align:center;
 	text-decoration:none;
 }
 # menu ul li a: houver{
 	
-	background-color:#FFFFFF;
-	color:#6D6D6D;
-	bolder-bottom:3px solid #EA0000;
+	background-color:yellow;
+	
+	
 }
