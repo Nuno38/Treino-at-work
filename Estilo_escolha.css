@@ -1,0 +1,38 @@
+body{
+     
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dt0wkn8hkfQEX4H4AW0A8YHUkfYij83wlg&usqp=CAU');
+	background-repeat: repeat;
+    background-attachment:fixed;
+	padding-bottom: 20%;
+    background-size:100%,70%;
+    background-position: 10%,10%;
+ 
+	
+}menu ul{
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#red;
+	
+	   
+}#menu ul li { 
+float:left;
+
+   }#menu ul li a{
+	
+	padding:10px 180px 10px;
+	display: block-inline-table;
+	background-color:#DCDCDC;
+	
+	text-align:center;
+	text-decoration:none;
+}
+# menu ul li a: houver{
+	
+	background-color:red;
+	
+	
+}
+	

@@ -1,0 +1,46 @@
+body{
+
+	background-image: url('https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif');
+	background-color: #DCDCDC;
+	background-repeat: repeat;
+    background-attachment:fixed;
+  
+    background-size:100%,100%;
+    background-position: 28%,30%;
+ 
+	
+}menu ul{
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#red;
+	
+	   
+}#menu ul li { 
+float:left;
+
+   }#menu ul li a{
+	
+	padding:10px 180px 10px;
+	display: block-inline-table;
+	background-color:#DCDCDC;
+	
+	text-align:center;
+	text-decoration:none;
+}
+# menu ul li a: houver{
+	
+	background-color:red;
+	
+	
+}#paragrafo ul{
+	color:red;
+}
+#paragrafo ul li { 
+border:1px solid yellow;
+float:center;
+
+fonte-size 50%;
+   }
