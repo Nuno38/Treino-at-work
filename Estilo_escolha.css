@@ -1,38 +1,53 @@
+*{margin:0; padding:0;}
 body{
      
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dt0wkn8hkfQEX4H4AW0A8YHUkfYij83wlg&usqp=CAU');
 	background-repeat: repeat;
     background-attachment:fixed;
 	padding-bottom: 20%;
+	font-family:arial,helvetica, sans-serif;
     background-size:100%,70%;
     background-position: 10%,10%;
  
 	
-}menu ul{
+}menu {
 	
 	list-style-type:none;
-	margin:0;
-	padding:0;
-	overflow:hidden;
-	background-color:#red;
-	
+	boder:1px solid #c0c0c0;
+	float: left;
 	   
-}#menu ul li { 
+}
+menu li { 
 float:left;
+boder-right:1px solid red;
 
-   }#menu ul li a{
+   }
+menu li a{
 	
-	padding:10px 180px 10px;
-	display: block-inline-table;
+	padding:5px 183px;
+	display: block;
 	background-color:#DCDCDC;
-	
-	text-align:center;
 	text-decoration:none;
 }
-# menu ul li a: houver{
+menu ul li a: houver{
 	
-	background-color:red;
-	
-	
+	background:#333;
+	color:#fff;
+	-moz-box-shadow: 0 3px 10px 0 #ccc;
+	 text-shadow: 0px 0px 5px #fff;
+	-webkit-box-shadow: 0 3px 10px 0 #ccc; 
 }
+menu li ul{
+	position:absolute;
+	top:25px;
+	left:0;
+	background-color:#fff;
+	display:nome;
+}
+  menu li: houver ul, menu li.over ul{ display:inline;}
 	
+	menu li ul li{
+		boder: 2px solid #c0c0c0;
+		display:block;
+		width:150px;
+	}
