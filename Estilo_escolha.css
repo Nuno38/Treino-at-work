@@ -19,7 +19,7 @@ float: left;
 }
 nav ul li { 
 float:left;
-boder-right:1px solid red;
+
 
 }
 nav ul li a{
@@ -37,3 +37,27 @@ color:#fff;
  text-shadow: 0px 0px 5px #fff;
 -webkit-box-shadow: 0 3px 10px 0 #ccc; 
 }
+.bnt{
+	position:float;
+	border:1px solid #fff;
+	color:blue;
+	margin:155px 150px 20px 200px;
+	background-color:red;
+	
+	
+}.bnt_2{
+		position:float;
+	    border:1px solid #fff;
+	    color:red;
+	    margin:150px 200px 20px -70px;
+	    background-color:blue;
+	    
+	}
+
+.text h1{
+		text-align:center;
+		margin: 350px 100px 20px 300px;
+		background-color:#DCDCDC;
+		border:10px solid #fff;
+		color:red;
+	}
