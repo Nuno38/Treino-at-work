@@ -66,4 +66,6 @@ text-decoration:none;
 	background-color: #DCDCDC;
 }
 
-
+.Button buttonBlue(){
+	background-color:blue;
+}
