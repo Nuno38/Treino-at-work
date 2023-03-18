@@ -5,4 +5,4 @@
    
    Realizado atráves de horas vazas, e intervalos.
    
-   https://nuno38.github.io/Treino-at-work/pagina.html
+   https://nuno38.github.io/Treino-at-work/index.teste.html
