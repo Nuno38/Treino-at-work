@@ -56,16 +56,22 @@ text-decoration:none;
 	color: blue;
 	text-align:center;
 	background-color: #DCDCDC;
-	margin: 0px 150px 10px 300px;
+	margin: 0px 150px 10px 500px;
 	
 }
 .texto h1{
 	text-align:center;
 	color:blue;
-	margin:350px 100px 10px 200px;
+	margin:450px 110px 20px 400px;
 	background-color: #DCDCDC;
 }
 
-.Button buttonBlue(){
+.buttonBlue{
 	background-color:blue;
+	
+	
+}
+.buttonRed{
+	align:center
+	
 }
